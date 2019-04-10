@@ -3114,7 +3114,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="U$5" library="buzzard_labels (14)" package="PROG7" value="" x="20.701" y="4.064"/>
 <element name="U$6" library="buzzard_labels (14)" package="THERM8" value="" x="20.701" y="1.778"/>
 <element name="U$7" library="buzzard_labels (14)" package="PWR6" value="" x="24.765" y="12.573"/>
-<element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="31.369" y="6.985" rot="MR270"/>
+<element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="32.639" y="6.985" rot="MR270"/>
 <element name="LOGO2" library="SparkFun-Aesthetics" package="OSHW-LOGO-S" value="OSHW-LOGOS" x="2.921" y="6.985" rot="MR270"/>
 <element name="U$1" library="SparkFun-Aesthetics" package="SFE_LOGO_FLAME_.1" value="" x="16.51" y="10.033"/>
 <element name="U$2" library="buzzard_labels (14)" package="PROG7" value="" x="19.177" y="4.064" rot="MR0"/>
@@ -3123,7 +3123,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <attribute name="DESIGNER" value="" x="-1.905" y="-24.13" size="1.016" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="REV" value="" x="-1.905" y="-24.13" size="1.016" layer="27" font="vector" ratio="15" display="off"/>
 </element>
-<element name="U$9" library="buzzard_labels (15)" package="LIPO_CHARGER_PLUS0" value="" x="34.163" y="13.97" rot="MR270"/>
+<element name="U$9" library="buzzard_labels (15)" package="LIPO_CHARGER_PLUS0" value="" x="36.068" y="13.97" rot="MR270"/>
 </elements>
 <signals>
 <signal name="STAT1">
