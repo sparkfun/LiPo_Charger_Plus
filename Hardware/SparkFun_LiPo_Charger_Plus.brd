@@ -162,8 +162,8 @@
 <dimension x1="0" y1="0" x2="38.1" y2="0" x3="19.05" y3="-6.985" textsize="1.016" textratio="15" layer="47" unit="inch" precision="3" visible="yes"/>
 <text x="2.159" y="0.762" size="1.016" layer="16" font="vector" ratio="15" rot="MR180" align="center-left">v10</text>
 <polygon width="0.0762" layer="30">
-<vertex x="19.685" y="5.334"/>
-<vertex x="19.685" y="13.208"/>
+<vertex x="19.6342" y="5.334"/>
+<vertex x="19.6342" y="13.208"/>
 <vertex x="11.811" y="13.208"/>
 <vertex x="11.811" y="5.334"/>
 </polygon>
