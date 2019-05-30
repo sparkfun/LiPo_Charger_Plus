@@ -5,9 +5,10 @@ SparkFun LiPo Charger Plus
 
 [*SparkFun LiPo Charger Plus (15217)*](https://www.sparkfun.com/products/15217)
 
-The SparkFun LiPo Charger Plus is the latest in the SparkFun line of single-cell lithium polymer (LiPo) battery chargers. With this iteration, we've changed the input charge connector to USB-C and provided charge rate selection as well as optional thermal protection. Charge, power, and done LEDs clearly indicate the status of your charging process. This board can be used for any of the 2-pin JST connector single cell LiPo batteries we carry. 
+The SparkFun LiPo Charger Plus is the souped-up power option in the SparkFun line of single-cell lithium polymer (LiPo) battery chargers. With this iteration, we've changed the input charge connector to USB-C and provided charge rate selection as well as optional thermal protection. Charge, power, and done LEDs clearly indicate the status of your charging process. This board can be used for any of the 2-pin JST connector single cell LiPo batteries we carry. 
 
 With an input voltage between 3.75V-6V, the MCP73833 can charge up to a maximum rate of 1000mAh and provides two forms of thermal protection. An internal sensor maintains maximum charging rate until the die temperature of the IC reaches ~95°C; the charge controller will then reduce the charge rate to prevent overheating. The MCP73833 also has an optional input pin for an NTC (negative-temperature coefficient) thermistor, thus gating the battery against possible damage. 
+
 
 
 Repository Contents
