@@ -3,7 +3,7 @@ SparkFun LiPo Charger Plus
 
 ![SparkFun LiPo Charger Plus](https://cdn.sparkfun.com/assets/parts/1/3/6/5/8/15217-SparkFun_LiPo_Charger_Plus-02.jpg)
 
-[*SparkFun LiPo Charger Plus (15217)*](https://www.sparkfun.com/products/15217)
+[*SparkFun LiPo Charger Plus (PRT-15217)*](https://www.sparkfun.com/products/15217)
 
 The SparkFun LiPo Charger Plus is the souped-up power option in the SparkFun line of single-cell lithium polymer (LiPo) battery chargers. With this iteration, we've changed the input charge connector to USB-C and provided charge rate selection as well as optional thermal protection. Charge, power, and done LEDs clearly indicate the status of your charging process. This board can be used for any of the 2-pin JST connector single cell LiPo batteries we carry. 
 
