@@ -18,6 +18,7 @@ Repository Contents
 
 Documentation
 --------------
+* **[SparkFun Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/15217_sfe_LiPo_Charger_Plus.fzpz)** - Fritzing diagrams for SparkFun products.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/lipo-charger-plus-hookup-guide)** - Basic hookup guide for the SparkFun LiPo Charger Plus.
 
 License Information
